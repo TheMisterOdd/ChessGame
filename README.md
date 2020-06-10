@@ -5,7 +5,7 @@ This is just a normal chess game. It has been written with slight variation of [
 
 The goal of this project is not making "the best chess game ever", even though, making a game like this is a very beginner project (because I'm almost a beginner), I think. This game, has been done as a hobby for practising OpenGL and my skills using C and Data Oriented Desing.
 
-It is a lightweight chess game, that should be able run on every PC nowadays. 
+It is a lightweight chess game, that should be able to run on every PC nowadays. 
 
 ### For what can I use this?
 
