@@ -9,7 +9,15 @@ It is a lightweight chess game, that should run on every PC nowadays.
 
 ### For what can I use this?
 
-You could use to play chess, but thats not the actual point. In my understanding, this game could be use a good interface for some AI testing, using the base engine to make your own isometric game, etc.
+You could use the game to play chess, but thats not the actual point. In my understanding, this game could be use a good interface for some AI testing, using the base engine to make your own isometric game, etc.
+Your limit is whatever you could imagine
 
 ![Chess Example](https://raw.githubusercontent.com/AlKiam/ChessGame/master/media/chess.gif "Example")
+
+### Dependencies:
+  * **GLFW** https://www.glfw.org/
+  * **OpenGL** https://glad.dav1d.de/ or http://glew.sourceforge.net/
+  * **stb_image** https://github.com/nothings/stb/blob/master/stb_image.h
+  * **nuklear** https://github.com/vurtun/nuklear
+  * **cglm** https://github.com/recp/cglm
 
