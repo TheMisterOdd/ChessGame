@@ -1,3 +1,8 @@
+"""
+This is my custom build tool.
+You must define de include directories, the lib directores and
+also, you can change the compiler, the flags, the C standard version and the main file name.
+"""
 import os
 
 compiler = "clang"
@@ -10,12 +15,12 @@ files = [
 ]
 
 includes_dir = [
-	"E:\\Coding Saves\\Visual Studio Code\\C\\Insight\\libs\\OpenGL\\include",
-	"E:\\Coding Saves\\Visual Studio Code\\C\\Insight\\libs\\cgml\\include",
+	"",
+	"",
 ]
 
 libs_dir = [
-	"E:\\Coding Saves\\Visual Studio Code\\C\\Insight\\libs\\OpenGL\\lib",
+	"",
 ]
 
 libs = [
