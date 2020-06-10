@@ -16,7 +16,7 @@ Your limit is whatever you could imagine
 
 ### Dependencies:
   * **GLFW** https://www.glfw.org/
-  * **OpenGL** https://glad.dav1d.de/ or http://glew.sourceforge.net/
+  * **OpenGL** https://glad.dav1d.de/
   * **stb_image** https://github.com/nothings/stb/blob/master/stb_image.h
   * **nuklear** https://github.com/vurtun/nuklear
   * **cglm** https://github.com/recp/cglm
