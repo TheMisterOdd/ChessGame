@@ -14,6 +14,10 @@ Your limit is whatever you could imagine (very cliché, i know).
 
 ![Chess Example](https://raw.githubusercontent.com/AlKiam/ChessGame/master/media/chess.gif "Example")
 
+### Why C and not C++, Go, Java or other language?
+I rather to use C, for four main reasons, it is my favourite language, it the language i feel the most confortable using it, because it is simple and because of the speed, oh god, i really like speed.
+
+
 ### Dependencies:
   * **GLFW** https://www.glfw.org/
   * **OpenGL** https://glad.dav1d.de/
