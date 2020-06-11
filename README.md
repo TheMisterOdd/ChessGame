@@ -10,7 +10,7 @@ It is a lightweight chess game, that should be able to run on every PC nowadays.
 ### For what can I use this?
 
 You could use the game to play chess, thats okay, but is not the only propouse. In my understanding, this game could be use as good interface for some AI testing, using the base engine to make your own isometric game, etc.
-Your limit is whatever you could imagine (so cliché).
+Your limit is whatever you could imagine (very cliché, i know).
 
 ![Chess Example](https://raw.githubusercontent.com/AlKiam/ChessGame/master/media/chess.gif "Example")
 
